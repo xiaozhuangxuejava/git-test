@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("我是小庄");
         System.out.println("我是小庄2");
         System.out.println("我是小庄3");
+        System.out.println("我是小庄4");
     }
 }
